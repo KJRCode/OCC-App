@@ -1,0 +1,109 @@
+[
+    {
+        "id" : "A",
+        "header": "What to Pack",
+        "lists" : [
+            {"id" : 1,
+                "title" : "Allowed Items",
+                "description" : "These are frequently asked about items that are allowed in shoebox gifts.",
+                "info" : [
+                    "playing cards",
+                    "batteries (in original packaging or with both ends taped)",
+                    "wet wipes or plain alcohol wipes",
+                    "toy spiders/bugs/snakes",
+                    "superheroes or other licensed characters",
+                    "items with company logos",
+                    "all types of scissors",
+                    "squirt guns (that don’t look like real guns)",
+                    "glow sticks",
+                    "compact mirrors",
+                    "lip balm (non-medicated)",
+                    "playdough (store bought)",
+                    "solid stick deodorant",
+                    "makeup (non-liquid)",
+                    "adhesive bandages (non-medicated)",
+                    "disposable or reusable feminine hygiene products",
+                    "eating utensils",
+                    "marbles",
+                    "Bibles or other religious literature or symbols"
+                ]
+            },
+            {"id" : 2,
+                "title" : "Banned Items",
+                "description" : "You cannot pack any of these items in your shoebox. These items will be removed from your box if you do pack them.",
+                "info" : [
+                    "Vaseline®",
+                    "scary items (things that will frighten a child rather than bring joy)",
+                    "war-related items (such as toy soldiers, military vehicles, or wearable camouflage)",
+                    "liquid paint sets or liquid glue",
+                    "rubber balls with liquid filling",
+                    "liquid lip gloss",
+                    "matches or fire starters",
+                    "seeds",
+                    "sand/rocks/shells gathered from nature",
+                    "all types of food, candy, or gum",
+                    "medications or vitamins",
+                    "toothpaste",
+                    "nail polish",
+                    "money or play money",
+                    "baby powder",
+                    "baking soda",
+                    "razors",
+                    "liquids or lotions",
+                    "breakable items or glass containers",
+                    "aerosol cans",
+                    "used clothing or toys"
+                ]
+            }
+        ]
+    },
+    {
+        "id" : "B",
+        "header": "Dropoff Information",
+        "lists" :[
+            {"id" : 1,
+                "title" : "When To Dropoff",
+                "description" : "When can I drop off my shoebox?",
+                "info" : [
+                    "Checkout the homepage to see our countdown to National Collection Week!",
+                    "National Collection week is November 18th-25th. All boxes must be turned in by the end of that week, but please feel free to drop off your shoeboxbox anytime in November.",
+                    "We open thousands of drop-off locations across the United States during National Collection Week, the third week in November each year, so there should be one near you. You can also physically drop off shoebox gifts year-round at any one of our Ministry Centers. Only our Boone and Charlotte locations are able to accept mailed gifts."
+                ]
+            },
+            {"id" : 2,
+                "title" : "Where To Dropoff",
+                "description" : "Where can I drop off my shoebox?",
+                "info" : [
+                    "Visit our homepage to get started. We will walk you through the steps of packing a shoebox, including finding the closest processing center to you!",
+                    "In the days leading up to National Collection Week, you can drop off a shoebox at any local church that collects them. National Collection week is November 18th-25th. "
+                ]
+            }
+        ]
+        
+    },
+    {
+        "id" : "C",
+        "header": "Labels and Donations",
+        "lists" :[
+            {"id" : 1,
+                "title" : "Labels",
+                "description" : "What is a shoebox label and where can I get one?",
+                "info" : [
+                    "A shoebox label ensures that the shoebox you packed gets to a child of the intended age and gender. Buying a label also provides an easy way to give your 10 dollar donation.",
+                    "You can purchase a label on the Samaritain's Purse website. A printed label is the easiest to use, as it is already activated and you can easily tape it onto the top of your box."
+                ],
+                "website" : "https://www.samaritanspurse.org/operation-christmas-child/label-options#printable-labels"
+            },
+            {"id" : 2,
+                "title" : "Donations",
+                "description" : "Why is there a required donation of 10 dollars and how should I pay it?",
+                "info" : [
+                    "This amount is critical to cover project costs involved in collecting, processing, and shipping your shoebox gifts to over 170 countries. It also provides for ministry materials such as The Greatest Gift Gospel Booklet and The Ministry Partner Guide.",
+                    "We encourage those who are unable to include $10 per box to consider asking a group in their church or a family member to sponsor this part of the shoebox gift.",
+                    "You can give this 10 dollar donation by buying a label online or including 10 dollars cash with you box upon dropoff."
+                ]
+            }
+        ]
+        
+    }
+]

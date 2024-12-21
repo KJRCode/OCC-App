@@ -1,0 +1,102 @@
+{
+  "categories": [
+    {
+      "name": "Hygiene",
+      "contentGirl": [
+        { "item": "Toothbrush", "image": "toothbrush_image.png" },
+        { "item": "Washcloth", "image": "washcloth_image.png" },
+        { "item": "Lip Balm", "image": "lip_balm_image.png" },
+        { "item": "Hairbrush", "image": "hairbrush_image.png" },
+        { "item": "Hair Accessories", "image": "hair_accessories_image.png" }
+      ],
+      "contentBoy": [
+        { "item": "Toothbrush", "image": "toothbrush_image.png" },
+        { "item": "Washcloth", "image": "washcloth_image.png" },
+        { "item": "Comb", "image": "comb_image.png" }
+      ],
+      "doNotSend": [
+        { "item": "Toothpaste", "image": "toothpaste_image.png" },
+        { "item": "Mouthwash", "image": "mouthwash_image.png" },
+        { "item": "Liquid Soap or Shampoo", "image": "liquid_soap_image.png" },
+        { "item": "Razors", "image": "razors_image.png" }
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "School Supplies",
+      "contentGirl": [
+        { "item": "Notebook", "image": "notebook_image.png" },
+        { "item": "Pencils", "image": "pencils_image.png" },
+        { "item": "Pencil Sharpener", "image": "pencil_sharpener_image.png" },
+        { "item": "Erasers", "image": "erasers_image.png" },
+        { "item": "Scissors", "image": "scissors_image.png" },
+        { "item": "Gluestick", "image": "gluestick_image.png" },
+        { "item": "Pencil Pouch", "image": "pencil_pouch_image.png" },
+        { "item": "Pens", "image": "pens_image.png" },
+        { "item": "Crayons", "image": "crayons_image.png" },
+        { "item": "Markers", "image": "markers_image.png" },
+        { "item": "Colored Pencils", "image": "colored_pencils_image.png" }
+      ],
+      "contentBoy": [
+        { "item": "Notebook", "image": "notebook_image.png" },
+        { "item": "Pencils", "image": "pencils_image.png" },
+        { "item": "Pencil Sharpener", "image": "pencil_sharpener_image.png" },
+        { "item": "Erasers", "image": "erasers_image.png" },
+        { "item": "Scissors", "image": "scissors_image.png" },
+        { "item": "Gluestick", "image": "gluestick_image.png" },
+        { "item": "Pencil Pouch", "image": "pencil_pouch_image.png" },
+        { "item": "Pens", "image": "pens_image.png" },
+        { "item": "Crayons", "image": "crayons_image.png" },
+        { "item": "Markers", "image": "markers_image.png" },
+        { "item": "Colored Pencils", "image": "colored_pencils_image.png" }
+      ],
+      "doNotSend": [
+        { "item": "Liquid Glue", "image": "liquid_glue_image.png" },
+        { "item": "Liquid Paint", "image": "liquid_paint_image.png" }
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Filler/Toys",
+      "contentGirl": [
+        { "item": "Yoyos", "image": "yoyos_image.png" },
+        { "item": "Slinkys", "image": "slinkys_image.png" },
+        { "item": "Bouncy Balls", "image": "bouncy_balls_image.png" },
+        { "item": "Crafts", "image": "crafts_image.png" },
+        { "item": "Coloring Books", "image": "coloring_books_image.png" }
+      ],
+      "contentBoy": [
+        { "item": "Yoyos", "image": "yoyos_image.png" },
+        { "item": "Slinkys", "image": "slinkys_image.png" },
+        { "item": "Bouncy Balls", "image": "bouncy_balls_image.png" },
+        { "item": "Coloring Books", "image": "coloring_books_image.png" }
+      ],
+      "doNotSend": [
+        { "item": "Bouncy Balls with Liquid", "image": "bouncy_ball_image.png" },
+        { "item": "Crafts Requiring Liquids", "image": "crafts_image.png" },
+        { "item": "Toy Soldiers", "image": "toy_soldiers_image.png" },
+        { "item": "Toy Weapons", "image": "toy_weapons_image.png"}
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Wow Gifts",
+      "contentGirl": [
+        { "item": "Stuffed Animals", "image": "stuffed_animals_image.png" },
+        { "item": "Dolls", "image": "dolls_image.png" },
+        { "item": "Simple Games", "image": "simple_games_image.png" }
+      ],
+      "contentBoy": [
+        { "item": "Stuffed Animals", "image": "stuffed_animals_image.png" },
+        { "item": "Simple Games", "image": "simple_games_image.png" },
+        { "item": "Soccer Ball with Pump", "image": "soccer_ball_image.png" }
+      ],
+      "doNotSend": [
+        { "item": "Anything Used or Damaged", "image": "used_or_damaged_image.png" },
+        { "item": "Anything Scary", "image": "scary_items_image.png" },
+        { "item": "Anything War Related", "image": "war_items_image.png" }
+      ],
+      "color": "purple"
+    }
+  ]
+}

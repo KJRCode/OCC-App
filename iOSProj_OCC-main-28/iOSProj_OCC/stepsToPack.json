@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Find a Shoebox",
+    "description": "Start with an average-size cardboard or plastic shoebox. If you want to wrap it, cover the box and lid separately. You can use your own shoeboxes or order our colorful preprinted ones, available in both cardboard and plastic. These sturdy options hold up well and can be lasting gifts in themselves for children to store cherished items."
+  },
+  {
+    "id": 2,
+    "title": "Get Your Label",
+    "description": "Whichever you choose, use the label to indicate on your shoebox whether it was packed for a boy or girl and which age category: 2–4, 5–9, or 10–14."
+  },
+  {
+    "id": 3,
+    "title": "Fill with Gifts",
+    "description": "Select a medium to large 'wow' item such as a soccer ball with pump or stuffed animal, then fill with other fun toys, school supplies, and personal care items. Don't forget to also include a personal note and photo—sometimes these are the child's favorite things to receive!"
+  },
+  {
+    "id": 4,
+    "title": "Pray",
+    "description": "Most importantly, 'pray without ceasing' (1 Thess. 5:17) for the child who will receive your shoebox gift.",
+    "additional": [
+      "Their family to also be receptive to the Good News of Jesus Christ.",
+      "The pastor of the church who delivers your shoebox gift.",
+      "Their community to be transformed by the Gospel."
+    ]
+  }
+]
